@@ -27,6 +27,5 @@ Add, edit, remove, and view tasks easily through a clean terminial interface.
 ## ▶️ How to Run
 ```bash
 python main.py
----
-## 
+
 
