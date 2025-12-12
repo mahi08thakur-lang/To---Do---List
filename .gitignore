@@ -1,0 +1,16 @@
+# python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# virtual environment 
+venv/
+env/
+
+# Vs code settings
+.vscode/
+
+# system filies
+.DS_Store
+Thumbs.db
