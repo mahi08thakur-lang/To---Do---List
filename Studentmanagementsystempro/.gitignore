@@ -1,0 +1,9 @@
+# Ignore environment files
+.env
+
+# Python cache files
+__pycache__/
+*.pyc
+
+# Local data files
+students.txt
